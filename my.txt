@@ -2,3 +2,4 @@ hi
 good morning
 bye
 namaste
+vanakam
